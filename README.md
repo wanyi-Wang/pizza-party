@@ -33,10 +33,6 @@ The game was undertaken as part of a learning project to explore game developmen
 ## Technologies Used
 Microsoft MakeCode Arcade - version 1.6
 
-JavaScript - used within MakeCode environment
-
-HTML5 - for embedding the game on a webpage
-
 ## Features
 Multiplayer Mode: Two players can play simultaneously, competing against each other.
 

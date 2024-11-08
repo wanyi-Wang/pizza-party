@@ -43,6 +43,7 @@ Obstacle Avoidance: Players must avoid moving obstacles that add complexity to t
 Visual and Audio Feedback: Positive feedback for pizza collection and winning the game through sound and visuals.
 
 ## Screenshots
+![螢幕擷取畫面 2024-11-08 214739](https://github.com/user-attachments/assets/caf72289-5742-4977-acd1-39ab31583f42)
 
 
 ## Setup
